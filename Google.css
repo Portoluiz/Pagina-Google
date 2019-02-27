@@ -1,11 +1,15 @@
-body {
+div{
 	background-color: #fff;
-	 padding-top: 130px;
-	 padding-right: 30px;
-	 padding-bottom: 20px;
-	 padding-left: 50px;
+	Padding-top:20%;
+	Padding-left: 10%;
+	Padding-right: 10%;
+	padding-bottom:0%;
 }
-.test {
-	 height: 40%;
-	 width: 50%;
+.tip{
+	height:  15%;
+	width:  60%;
+}
+p{
+	padding-right: 1%;
+	word-spacing: 4px;
 }
