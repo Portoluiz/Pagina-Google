@@ -1,15 +1,28 @@
 div{
 	background-color: #fff;
-	Padding-top:20%;
+	Padding-top:15%;
 	Padding-left: 10%;
 	Padding-right: 10%;
 	padding-bottom:0%;
 }
-.tip{
-	height:  15%;
-	width:  50%;
-}
+
 p{
 	padding-right: 1%;
 	word-spacing: 7px;
+}
+.tip{
+    /*definimos a largura do box*/
+    width:55%;
+    /* definimos a altura do box */
+    height:27px;
+    /* definimos a cor de fundo do box */
+    background-color:#fff;
+    /* definimos o quão arredondado irá ficar nosso box */
+    border-radius: 15px 15px;
+}
+.fip{
+	border-radius: 15px 15px;
+	width:  ;
+	height:  34px;
+	
 }
